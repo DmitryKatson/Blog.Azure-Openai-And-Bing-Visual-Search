@@ -11,7 +11,7 @@ page 60101 "GPT Azure OpenAI Settings"
     SourceTable = "GPT Azure OpenAI Settings";
     UsageCategory = Administration;
 
-    ContextSensitiveHelpPage = 'Food-Picture-2-Recipe--Azure-OpenAI---Bing-Visual-Search-for-Business-Central';
+    ContextSensitiveHelpPage = 'food-2-recipe-azure-openai-bing-visual-search-for-business-central';
 
     layout
     {

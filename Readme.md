@@ -16,6 +16,7 @@ This app allows users to upload an image of food to Business Central, where it i
 
 ## Usage
 
+Blog post: https://katson.com/food-2-recipe-azure-openai-bing-visual-search-for-business-central/
 
 ## Contributing
 

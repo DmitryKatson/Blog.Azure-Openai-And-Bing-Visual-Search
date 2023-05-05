@@ -11,7 +11,7 @@ page 60100 "GPT Bing Search Settings"
     SourceTable = "GPT Bing Search Settings";
     UsageCategory = Administration;
 
-    ContextSensitiveHelpPage = 'Food-Picture-2-Recipe--Azure-OpenAI---Bing-Visual-Search-for-Business-Central';
+    ContextSensitiveHelpPage = 'food-2-recipe-azure-openai-bing-visual-search-for-business-central';
 
     layout
     {
