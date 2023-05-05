@@ -10,7 +10,7 @@ codeunit 60101 "GPT Azure OpenAI Impl."
                 'IMPORTANT! Don''t add additional comment like ''the food is'', return just food name.' +
                 'Example: ' +
                 'Description: ''The food is a fruit. It is red. It is round. It is sweet'' ' +
-                'Name: ''apple'' ' +
+                'Answer: ''apple'' ' +
                 'Description: ' +
                 '_______';
 
