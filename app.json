@@ -1,0 +1,33 @@
+{
+  "id": "88bd8f43-df54-4bfd-b203-f5ddcbe2e1aa",
+  "name": "AI-recipe",
+  "publisher": "Katson.com",
+  "version": "1.0.0.0",
+  "brief": "Upload food image, get recipe",
+  "description": "AI-recipe app lets users upload an image of food to Business Central for recognition, and then suggests a recipe based on the identified food. It simplifies meal planning and cooking, providing users with new ideas and culinary inspiration",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 60100,
+      "to": 60149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "contextSensitiveHelpUrl": "https://katson.com/blog/"
+}
