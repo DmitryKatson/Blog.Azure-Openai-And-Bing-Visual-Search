@@ -51,8 +51,6 @@ page 60101 "GPT Azure OpenAI Settings"
     begin
         if not Rec.Get() then
             Rec.Insert();
-
-        Rec.SetDefaults();
     end;
 
     trigger OnAfterGetCurrRecord()

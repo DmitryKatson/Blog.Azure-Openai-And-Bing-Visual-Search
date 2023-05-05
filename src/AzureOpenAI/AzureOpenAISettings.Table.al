@@ -80,11 +80,6 @@ table 60101 "GPT Azure OpenAI Settings"
         IsolatedStorage.Get(SecretKeyTok, DataScope::Module, APIKey);
     end;
 
-    procedure SetDefaults()
-    begin
-        Rec.Endpoint := BingVisualSearchUri;
-    end;
-
     procedure GetEndpoint(): Text
     var
         MissingEndpointErrorInfo: ErrorInfo;
@@ -106,5 +101,4 @@ table 60101 "GPT Azure OpenAI Settings"
         SecretKeyTok: Label 'GPT-AOAI-Key', Locked = true;
         UriNotValidErr: Label 'The specified endpoint is not valid.';
         UriNotHttpsErr: Label 'The specified endpoint should be using https.';
-        BingVisualSearchUri: Label 'https://api.bing.microsoft.com/v7.0/images/visualsearch', Locked = true;
 }
